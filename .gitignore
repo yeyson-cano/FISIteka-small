@@ -1,0 +1,23 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv
+
+# SQLite database file
+*.db
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+
+# Render service files
+render.yaml
+
+# Environment variables file
+.env
